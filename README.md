@@ -16,11 +16,17 @@ USB cable for connecting the ESP32 to your computer
 Follow these steps to get started with the project:
 
 1.Clone the project repository to your local machine.
+
 2.Install the required Node.js packages by running npm install in the project's root directory.
+
 3.Set up your ESP32 microcontroller with the DHT sensor and the necessary code to send data to the Node.js server.
+
 4.Configure the ESP32 to connect to your local Wi-Fi network.
+
 5.Start the Node.js server by running npm start in the project directory.
+
 6.Access the web interface or API to view real-time temperature and humidity data.
+
 4. Project Structure
 /nodejs-server: Contains the Node.js server code and configurations.
 /esp32-code: Includes the Arduino code for the ESP32 weather station.
