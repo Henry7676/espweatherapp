@@ -42,4 +42,6 @@ Start the Node.js server: npm start
 Upload the ESP32 code to your microcontroller.
 Access the web interface at http://localhost:3000 to view temperature and humidity data.
 
-![alt text](thumbnail.IMG_5062.jpg "esp")
+![alt text](thumbnail_IMG_5062.jpg "esp") 
+
+![](thumbnail_IMG_5062.jpg) 
